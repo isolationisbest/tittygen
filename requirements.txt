@@ -1,5 +1,4 @@
 requests
 asyncio
 aiohttp
-string
 termcolor
